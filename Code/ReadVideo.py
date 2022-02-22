@@ -6,7 +6,7 @@ frameWidth = 640
 frameHeight = 360
 
 # read the video form the location
-capVideo = cv2.VideoCapture("videos/skiing_video.mp4")
+capVideo = cv2.VideoCapture("D:/Code/Pycharm Projects/OpenCV/Open_CV/Resources/videos/skiing_video.mp4")
 
 # declare loop to read each frame
 
